@@ -1,7 +1,7 @@
-Flexbox Froggy
+ضفدع فليكس بوكس
 =======
 
-Flexbox Froggy is a game for learning CSS flexbox. Check it out at [flexboxfroggy.com](http://flexboxfroggy.com).
+ضفدع فليكس بوكس هي لعبة لتعلم وسم فليكس بوكس الخاص بلغة CSS. جربها في [flexboxfroggy.com](http://flexboxfroggy.com).
 
 Read [this blog post](http://thomaspark.co/2015/11/learning-css-layout-with-flexbox-froggy/) for background on the project.
 
